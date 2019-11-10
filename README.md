@@ -1,2 +1,2 @@
 # pizzatime
-Texts nearest 5 pizza places to you :)
+Texts you the 5 pizza places nearest to your zip code :)
